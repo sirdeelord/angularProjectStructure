@@ -1,1 +1,1 @@
-# space-ang
+# A template of angular project structure
